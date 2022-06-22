@@ -15,6 +15,7 @@ public class HelloGit {
         System.out.println("第三次修改");
         System.out.println("第四次修改");
         System.out.println("分支第一次修改");
+        System.out.println("hot-fix test");
     }
 
 
