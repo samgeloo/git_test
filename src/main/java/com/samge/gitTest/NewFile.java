@@ -8,4 +8,7 @@ package com.samge.gitTest;
  * @date : 2022-06-22 8:20
  **/
 public class NewFile {
+    public static void main(String[] args) {
+
+    }
 }
